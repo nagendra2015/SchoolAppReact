@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/pubSchoolApp/static/css/main.e269120e.css",
+    "main.js": "/pubSchoolApp/static/js/main.da367145.js",
+    "static/js/787.77fdc768.chunk.js": "/pubSchoolApp/static/js/787.77fdc768.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/pubSchoolApp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/footer.png": "/pubSchoolApp/static/media/footer.16abf45955b3fb382567.png",
+    "static/media/carousel-3.jpeg": "/pubSchoolApp/static/media/carousel-3.f896474e3dbb5fe85102.jpeg",
+    "static/media/fontawesome-webfont.eot": "/pubSchoolApp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/pubSchoolApp/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/aboutimg.jpg": "/pubSchoolApp/static/media/aboutimg.739d86e3882173089328.jpg",
+    "static/media/classes-6.jpg": "/pubSchoolApp/static/media/classes-6.9e09fc0d11b51af95cbc.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/pubSchoolApp/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/carousel-2.jpg": "/pubSchoolApp/static/media/carousel-2.58bc5a1331663e61e4df.jpg",
+    "static/media/carousel-1.jpg": "/pubSchoolApp/static/media/carousel-1.2536d703ab3ab90b88ba.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/pubSchoolApp/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/classes-5.jpg": "/pubSchoolApp/static/media/classes-5.43b8abc8136c46905fd5.jpg",
+    "static/media/classes-4.jpg": "/pubSchoolApp/static/media/classes-4.09363921d128db5b229a.jpg",
+    "static/media/classes-1.jpg": "/pubSchoolApp/static/media/classes-1.5216f9b83bff13942b5f.jpg",
+    "static/media/classes-3.jpg": "/pubSchoolApp/static/media/classes-3.24f1d8982f404d2802de.jpg",
+    "static/media/classes-2.jpg": "/pubSchoolApp/static/media/classes-2.6d882aebb92f8d8b5a20.jpg",
+    "static/media/about-1.jpg": "/pubSchoolApp/static/media/about-1.dc5629956014fa4e4a7b.jpg",
+    "static/media/about-2.jpg": "/pubSchoolApp/static/media/about-2.1d36c792eba00a9ab25f.jpg",
+    "static/media/about-3.jpg": "/pubSchoolApp/static/media/about-3.4d5605e7b8378a45a01c.jpg",
+    "index.html": "/pubSchoolApp/index.html",
+    "main.e269120e.css.map": "/pubSchoolApp/static/css/main.e269120e.css.map",
+    "main.da367145.js.map": "/pubSchoolApp/static/js/main.da367145.js.map",
+    "787.77fdc768.chunk.js.map": "/pubSchoolApp/static/js/787.77fdc768.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e269120e.css",
+    "static/js/main.da367145.js"
+  ]
+}
